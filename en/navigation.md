@@ -2,7 +2,7 @@
 
 # Neokai Wiki
 
-[Test](pages/test.md)
-[Characters](pages/characters.md)
-[Gameplay](pages/gameplay.md)
-[Scrum](pages/scrum.md)
+[TEST](pages/test.md)
+[CHARACTERS](pages/characters.md)
+[GAMEPLAY](pages/gameplay.md)
+[LOG](pages/scrum.md)
