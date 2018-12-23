@@ -1,1 +1,1 @@
-# Welcome to the Neokai Wikisd
+## Welcome to the Neokai Wiki
