@@ -6,7 +6,8 @@
 
 #### DESCRIPTION
 An all around character, with average speed, damage and health.
-Corvo is good at disengaging with his dash but can also output a lot of damage if he hits his grenade.
+Good at disengaging with his dash but can also output a lot of damage if he hits his grenade.
+Corvo is a beginner friendly character but can be very strong if used effectively.
 
 
 Stats                           | 
