@@ -3,7 +3,7 @@
 | Sprint | Date | To Do | Status |
 |:--|:--|:--|:-:|
 |1| 12-18 December | ~~Minor Fixes~~, ~~Basic VFX Feedback~~ | 2/2 |
-|2| 19-25 December | Create Neokai's Wiki | 1/1 |
+|2| 19-25 December | ~~Create Neokai's Wiki~~ | 1/1 |
 |3| 26-01 December | New Gamemode, Bug Fixes, Aries Placeholder Animation, Arena Design, Basic UI| 0/5 |
 |4| 02-08 January  | Character Select Screen, Main Menu, Arena Design, Arena Concept | 0/4 |
 |5| 09-15 January  | TBD | 0/0 |
