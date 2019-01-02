@@ -4,8 +4,8 @@
 |:--|:--|:--|:-:|
 |1| 12-18 December | ~~Minor Fixes~~, ~~Basic VFX Feedback~~ | 2/2 |
 |2| 19-25 December | ~~Create Neokai's Wiki~~ | 1/1 |
-|3| 26-01 December | New Gamemode, Bug Fixes, Aries Placeholder Animation, ~~Basic UI~~| 0/5 |
-|4| 02-08 January  | Character Select Screen, Main Menu, Arena Design, Arena Concept | 0/4 |
+|3| 26-01 December | ~~Basic UI~~| 1/1 |
+|4| 02-08 January  | New Gamemode, Bug Fixes, Aries Placeholder Animation, Character Select Screen, Main Menu, Arena Design, Arena Concept | 0/7 |
 |5| 09-15 January  | TBD | 0/0 |
 |6| 16-22 January  | TBD | 0/0 |
 |7| 23-29 January  | TBD | 0/0 |
